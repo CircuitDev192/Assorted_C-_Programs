@@ -1,3 +1,7 @@
+/*
+*   Averages out scores from text file, output formatted version in different file.
+*/
+
 #include <iostream>
 #include <fstream>
 #include <iomanip>

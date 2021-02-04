@@ -1,3 +1,8 @@
+/*
+*   Class example, simulates a game character with an inventory. 
+*    GCharacter.cpp includes operator overloading, (de)constructors, etc.
+*/
+
 #include "GCharacter.h"
 using namespace std;
 

@@ -1,3 +1,7 @@
+/*
+*   Counts the number of occurances of a letter in a given word.
+*/
+
 #include <iostream>
 #include <string>
 using namespace std;

@@ -1,3 +1,7 @@
+/*
+*   Basic linear search. 
+*/
+
 #include <iostream>
 using namespace std;
 

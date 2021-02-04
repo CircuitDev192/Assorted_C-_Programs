@@ -1,3 +1,7 @@
+/*
+*   Length conversion from feet and inches to centimeters
+*/
+
 #include <iostream>
 
 using namespace std;

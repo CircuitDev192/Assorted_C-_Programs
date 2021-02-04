@@ -1,3 +1,7 @@
+/*
+*   Quick test code for the IDE I was using. Just checks if a number is even or odd  
+*/
+
 #include <iostream>
 
 bool isEven(int x) {

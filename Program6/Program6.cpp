@@ -1,3 +1,7 @@
+/*
+*   This program uses a seperate cpp and h file for the implementation of the math functions.
+*/
+
 #include <iostream>
 #include "MyMathFunctions.h"
 using namespace std;

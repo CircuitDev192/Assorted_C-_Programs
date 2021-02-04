@@ -1,3 +1,7 @@
+/*
+*   Basic sorting algorithm
+*/
+
 #include <iostream>
 
 void sortArr(int);

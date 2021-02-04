@@ -1,3 +1,7 @@
+/*
+*   Basic object/class implementation. Simulates a 'virtual pet'
+*/
+
 #include <iostream>
 #include "VPet.h"
 using namespace std;

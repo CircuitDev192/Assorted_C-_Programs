@@ -1,3 +1,7 @@
+/*
+*   Grade averager. Takes in user input for the values
+*/
+
 #include <iostream>
 using std::cout;
 using std::cin;

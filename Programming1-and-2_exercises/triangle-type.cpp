@@ -3,6 +3,8 @@
  *
  *  Created on: Feb 16, 2017
  *      Author: Matthew Ashmore
+ * 
+ * 	Enum example, gets the type of a triangle based on the side lengths
  */
 #include <iostream>
 #include <string>

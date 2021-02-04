@@ -1,3 +1,10 @@
+/*
+*	Wrote this a few years back. Was into the video game "Tom Clancy's: The Division" and got inspired to make
+* 		an app that would track the amount of particular in-game items the player had, since the game had
+*		no such way to track that statistic. It's pretty basic, but is able to read and write to a file, so 
+* 		that the program remembers which items you have. 
+*/
+
 #include <iostream>
 #include <fstream>
 #include <string>

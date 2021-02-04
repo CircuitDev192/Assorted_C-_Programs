@@ -1,3 +1,7 @@
+/*
+*   Comparison between linear and binary search. Outputs the number of total comparisons for both algorithms
+*/
+
 #include <iostream>
 using namespace std;
 

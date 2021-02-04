@@ -1,3 +1,7 @@
+/*
+*   I/O stream example
+*/
+
 #include <iostream>
 #include <string>
 

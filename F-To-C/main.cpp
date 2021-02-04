@@ -1,3 +1,7 @@
+/*
+*    Converts Fahrenheit to Celsius
+*/
+
 #include <iostream>
 
 using std::cout;

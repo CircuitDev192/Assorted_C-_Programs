@@ -1,3 +1,7 @@
+/*
+*   Takes in two x and y values, and gets the slope of a line running through both points
+*/
+
 #include <iostream>
 #include <cmath>
 

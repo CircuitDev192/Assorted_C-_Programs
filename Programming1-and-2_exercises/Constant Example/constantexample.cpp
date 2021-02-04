@@ -1,3 +1,7 @@
+/*
+*   C++ constant example
+*/
+
 #include <iostream>
 using namespace std;
     //named constant

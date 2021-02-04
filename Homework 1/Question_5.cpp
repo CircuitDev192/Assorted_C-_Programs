@@ -1,3 +1,7 @@
+/*
+*   Rectangle area finder  
+*/
+
 #include <iostream>
 
 int main() {
