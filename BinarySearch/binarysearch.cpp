@@ -1,3 +1,7 @@
+/*
+* 	Basic implementation of binary search using a known sorted array. Can also detect and respond if the number is not present in the array.
+*/
+
 #include <iostream>
 using namespace std;
 

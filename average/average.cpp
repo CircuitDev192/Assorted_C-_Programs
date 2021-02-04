@@ -1,3 +1,7 @@
+/*
+* 	Get average of values in a known array.
+*/
+
 #include <iostream>
 using namespace std;
 

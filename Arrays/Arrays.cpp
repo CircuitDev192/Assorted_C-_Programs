@@ -1,3 +1,7 @@
+/*
+* 	Basic input/output of data from an array of a set size.
+*/
+
 #include <iostream>
 using namespace std;
 
