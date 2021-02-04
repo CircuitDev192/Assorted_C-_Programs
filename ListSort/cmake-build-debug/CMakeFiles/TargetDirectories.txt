@@ -1,0 +1,3 @@
+/mnt/c/Users/willy/CLionProjects/ListSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/willy/CLionProjects/ListSort/cmake-build-debug/CMakeFiles/ListSort.dir
+/mnt/c/Users/willy/CLionProjects/ListSort/cmake-build-debug/CMakeFiles/edit_cache.dir

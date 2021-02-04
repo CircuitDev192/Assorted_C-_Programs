@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/willy/CLionProjects/TempClassExercise/main.cpp
+iostream
+-
+temperature.h
+/mnt/c/Users/willy/CLionProjects/TempClassExercise/temperature.h
+
+/mnt/c/Users/willy/CLionProjects/TempClassExercise/temperature.cpp
+temperature.h
+/mnt/c/Users/willy/CLionProjects/TempClassExercise/temperature.h
+
+/mnt/c/Users/willy/CLionProjects/TempClassExercise/temperature.h
+

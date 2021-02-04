@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TempClassExercise.dir/main.cpp.o CMakeFiles/TempClassExercise.dir/temperature.cpp.o  -o TempClassExercise 

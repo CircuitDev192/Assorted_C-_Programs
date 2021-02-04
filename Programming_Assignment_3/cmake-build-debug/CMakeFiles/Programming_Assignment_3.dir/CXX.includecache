@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/willy/CLionProjects/Programming_Assignment_3/grasshopper.h
+string
+-
+iostream
+-
+
+/mnt/c/Users/willy/CLionProjects/Programming_Assignment_3/main.cpp
+grasshopper.h
+/mnt/c/Users/willy/CLionProjects/Programming_Assignment_3/grasshopper.h
+

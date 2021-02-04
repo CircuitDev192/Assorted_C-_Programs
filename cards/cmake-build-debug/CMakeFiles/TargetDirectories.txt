@@ -1,0 +1,3 @@
+/mnt/c/Users/willy/CLionProjects/cards/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/willy/CLionProjects/cards/cmake-build-debug/CMakeFiles/cards.dir
+/mnt/c/Users/willy/CLionProjects/cards/cmake-build-debug/CMakeFiles/edit_cache.dir

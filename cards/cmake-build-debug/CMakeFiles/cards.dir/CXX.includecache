@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/willy/CLionProjects/cards/card.cpp
+card.h
+/mnt/c/Users/willy/CLionProjects/cards/card.h
+
+/mnt/c/Users/willy/CLionProjects/cards/card.h
+iostream
+-
+
+/mnt/c/Users/willy/CLionProjects/cards/main.cpp
+iostream
+-
+card.h
+/mnt/c/Users/willy/CLionProjects/cards/card.h
+
